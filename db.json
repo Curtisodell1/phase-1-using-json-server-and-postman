@@ -1,0 +1,20 @@
+{
+    "articles": [
+    {
+    "id": 1,
+    "name": "Penguin",
+    "Type": "birdie boys with suits"
+},
+{
+    "id":2,
+    "name": "Hippo",
+    "Type": "A horsey mammal that likes water time"
+},
+{
+    "id": 3,
+    "name": "Parrotfish",
+    "Type": "A fish (not a bird), capable of pooping sand!"
+}
+
+}
+  
